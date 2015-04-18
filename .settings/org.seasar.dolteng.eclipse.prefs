@@ -1,0 +1,8 @@
+DaoType=S2JDBC
+DefaultResourcePath=/Talk/src/main/resources
+DefaultRootPackage=talk
+DefaultSrcPath=/Talk/src/main/java
+ServletPath=Talk
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
